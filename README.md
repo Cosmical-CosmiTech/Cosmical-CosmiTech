@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Cosmical-CosmiTech
+- 👀 I’m interested in coding/scriting
+- 🌱 I’m currently learning C++
